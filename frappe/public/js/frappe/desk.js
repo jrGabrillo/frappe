@@ -682,3 +682,6 @@ frappe.get_module = function (m, default_module) {
 
 	return module;
 };
+
+
+console.log('esco!!!');
